@@ -49,6 +49,7 @@ print(total_cost)
 print('*' * 20)
 print('Hello', name, 'here is your bill for', item)
 print('Unit cost: ', unit_cost)
+#this displays the total cost 
 print('Total cost: ', total_cost)
 print('Thank you for shopping with BSIT Conf.')
 print('*' * 20)
